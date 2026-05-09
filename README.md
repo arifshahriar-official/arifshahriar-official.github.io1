@@ -1,27 +1,63 @@
 ![🎓 I am a Computer Science and Engineering student at Northern University Bangladesh.](https://scontent.fdac169-1.fna.fbcdn.net/v/t39.30808-6/688356647_1471298067706074_3767103553592756959_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=13d280&_nc_eui2=AeF-DfYm9IKCxT7a6AWHfEWj9_N7HVch9Gr383sdVyH0aj0tQwK2HkgFaL_2vvc2uW66ye8C_6_dDaViUohjB3Wq&_nc_ohc=TnLo55UBbOsQ7kNvwFLq4wp&_nc_oc=AdoBZjBwfevG3rkMd4Lqlr8_nxHr1cK0OW9YoPctM5BVGaGCUvMsdyfUvWSYZCjiJF0&_nc_zt=23&_nc_ht=scontent.fdac169-1.fna&_nc_gid=amwGCSAV9a_bKQ20JClI7g&_nc_ss=7b2a8&oh=00_Af5z4pXCIsSvFmcgBq4pZFJL78jOugcWvETciI0JmyZPDQ&oe=69FBC5FC)
 
-# arifshahriar-official.portfolio
 ## Hi there 👋,  I'm Arif Shahriar
 ## 🎓 I am a Computer Science and Engineering student at Northern University Bangladesh.
 
-💻 Passionate about programming, problem-solving, and building real-world software solutions.
-🚀 I enjoy learning new technologies and improving my skills step by step.
+🚀 Passionate about Programming • Problem Solving • Software Development
 
-🔭 Currently working on improving my knowledge in C, C++, Data Structures, and Object-Oriented Programming.
-🌱 I’m also exploring Arduino, embedded systems, and Artificial Intelligence basics.
+🚀 About Me
+💻 I am a Computer Science and Engineering student at Northern University Bangladesh.
 
-🤝 I’m open to collaborating on software development and open-source projects.
+🔭 Currently improving my skills in C, C++, Java, Data Structures, and Object-Oriented Programming.
 
-Skills: C / C++ / JAVA / DSA / Arduino Programming / Basic Debugging / Presentation / Analytical Thinking / Problem Solving / Teamwork
+🌱 Exploring Arduino, Embedded Systems, and Artificial Intelligence basics.
 
-- 🔭 I’m currently working on as a Research Publisher at the IEEE, contributing to research publication and academic content development. 
-- 🌱 I’m currently learning software development, problem-solving, and emerging technologies. 
-- 👯 I’m looking to collaborate on innovative tech projects and real-world problem-solving applications. 
-- 🤔 I’m looking for help with learning new technologies, collaborating on projects, and improving my coding skills. 
-- 💬 Ask me about code, tech, and building projects. 
-- 📫 How to reach me: via emai arifshahriar1724.nubcse@gmail.com 
-- 😄 Pronouns: He/Him 
-- ⚡ Fun fact: I debug more than I sleep 😄 
+🤝 Open to collaborating on software development and open-source projects.
+
+💡 Interested in building real-world software solutions and learning emerging technologies.
+
+🔬 Current Activities
+🔭 Working as a Research Publisher at IEEE
+🌱 Learning Software Development & Problem Solving
+👯 Looking to collaborate on Innovative Tech Projects
+🤔 Improving coding and development skills step by step
+💬 Ask me about Programming, Arduino & Tech Projects
+🛠️ Skills
+💻 Programming Languages
+C
+C++
+Java
+JavaScript
+PHP
+AssemblyScript
+Bash Script
+⚙️ Technical Skills
+Data Structures & Algorithms (DSA)
+Object-Oriented Programming (OOP)
+Arduino Programming
+Basic Debugging
+Problem Solving
+Analytical Thinking
+🤝 Soft Skills
+Teamwork
+Presentation Skills
+Communication
+💻 Tech Stack
+🧰 Frameworks & Tools
+Laravel
+CodeIgniter
+Apache Maven
+Arduino
+GitHub
+Google Cloud
+Oracle
+MySQL
+Microsoft SQL Server
+Windows Terminal
+🎨 Design & Productivity
+Canva
+Adobe Lightroom
+Adobe Acrobat Reader
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/arifshahriar-official)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/arifshahriarofficial/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/arifshahriar.official)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/arif_shahriar.ig/)  
